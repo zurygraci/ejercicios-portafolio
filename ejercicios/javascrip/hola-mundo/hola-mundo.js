@@ -1,4 +1,3 @@
-var nombre = "santiago";
+var novia = "Angie";
 
-
-console.console.log("Hola " + nombre);
+console.log("te amo " + novia);
