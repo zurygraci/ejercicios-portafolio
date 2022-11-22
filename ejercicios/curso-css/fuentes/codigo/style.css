@@ -1,0 +1,105 @@
+
+
+
+.fuente-1{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #000;
+  border-color: #000;
+  padding: 50px;
+  background-color: blueviolet;
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+
+
+.fuente-2{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #000;
+  border-color: #000;
+  padding: 50px;
+  background-color: rgb(29, 46, 157);
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+
+.fuente-3{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #000;
+  border-color: #000;
+  padding: 50px;
+  background-color: rgb(43, 208, 226);
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+.fuente-4{
+  font-family:sans-serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #000;
+  border-color: #000;
+  padding: 50px;
+  background-color: rgb(28, 157, 174);
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+.fuente-5{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #000;
+  border-color: #000;
+  padding: 50px;
+  background-color: rgb(218, 9, 85);
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+.fuente-6{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #000;
+  border-color: #000;
+  padding: 50px;
+  background-color: rgb(255, 234, 0);
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+
+}
